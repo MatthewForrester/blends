@@ -8,7 +8,9 @@ A few of the .blend files contain elements from BlendSwap that carry more specif
 
 My original work and modifications are all placed in the public domain, unless they are restricted according to the two paragraphs above.
 
-# Licence - Textures
+# Licence - Materials and Textures
 Plain-brick-improved, flemish-bond-improved, and concrete-paving-small [were created by Kieron Green and released under the Artistic Licence](https://forum.simutrans.com/index.php/topic,4482.msg44319.html#msg44319).
 
 Scratched_bricks_9271342 is from http://mayang.com/textures/Architectural/html/Brick/index.html; redistribution is permitted with credit to www.mayang.com (now defunct, so beware of visiting these links).
+
+Materials from Meta's Materials Library are used here and the whole library is in /Textures - MRForrester. [The author, Brendon Murphy, says that](https://sites.google.com/site/brendonmurphy1/materiallibrary%27s) "re-hosting/distribution [are] strongly permitted".
